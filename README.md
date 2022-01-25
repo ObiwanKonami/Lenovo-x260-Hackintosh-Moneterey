@@ -8,7 +8,7 @@
 
 
 Hello Everyone,
-I am sharing the EFI file that I use on my Lenovo x260 laptop with you. All opencore and kexts are up to date. I will continue to keep it updated as much as I can. There is a place in the config file that you need to change, you can see the document on how to change it below. Feel free to ask questions about the problems you are experiencing. I'll try to answer as best I can.
+I am sharing the EFI file that I use on my Lenovo x260 laptop with you. Opencore and all kexts are up to date. I will continue to keep it updated as much as I can. There are some places in the config file that you need to change, you can see the document on how to change it below. Feel free to ask questions about the problems you are experiencing. I'll try to answer as best I can.
 
 
 ## You Must Change
