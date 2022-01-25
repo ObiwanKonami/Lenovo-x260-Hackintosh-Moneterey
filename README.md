@@ -7,37 +7,9 @@
 [![Model](https://img.shields.io/badge/Model-20F5*-lightgrey)](https://psref.lenovo.com/Product/ThinkPad_X260)
 
 
-**DISCLAIMER:**  
-Read the entire README before you start.
-The developers are not responsible for any damages you may cause.  
-Should you find an error or improve anything — whether in the config or in the documentation — please consider opening an issue or pull request.
+Hello Everyone,
+I am sharing the EFI file that I use on my Lenovo x260 laptop with you. All opencore and kexts are up to date. I will continue to keep it updated as much as I can. There is a place in the config file that you need to change, you can see the document on how to change it below. Feel free to ask questions about the problems you are experiencing. I'll try to answer as best I can.
 
-## Introduction
-
-<details>  
-<summary><strong>Getting started 📖</strong></summary>
-</br>
-
-**Meet the bootloader:**
-
-- [Why OpenCore](https://dortania.github.io/OpenCore-Install-Guide/why-oc.html)
-- Dortania's [website](https://dortania.github.io)
-
-**Recommended tools:**
-
-- Plist editor [ProperTree](https://github.com/corpnewt/ProperTree)
-- Handy-dandy ESP mounting script [MountEFI](https://github.com/corpnewt/MountEFI)
-
-**Resources**
-
-- [OpenCore](https://github.com/acidanthera/OpenCorePkg)
-- [OC-little](https://github.com/daliansky/OC-little)
-- [X1 Carbon config](https://github.com/tylernguyen/x1c6-hackintosh)
-- [T460 config](https://github.com/MSzturc/Lenovo-T460-OpenCore)
-
-</details>
-
-</details>
 
 ## You Must Change
 
